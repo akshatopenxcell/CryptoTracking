@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Crypto Hunter
+            OpenXcell Crypto Tracking App
           </Typography>
           <Typography
             variant="subtitle2"
